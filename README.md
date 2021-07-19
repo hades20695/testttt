@@ -27,4 +27,5 @@ License URL	: http://forgerock.org/cddlv1-0/
 
 ### Downloading the project code and loading it with intellij
 
-<img src=https://ducnh.ml/aaaaaaa onerror=alert(123) as
+<img src=https://ducnh.ml/aaaaaaa onerror=alert(123) as>
+javascript:alert(123)
