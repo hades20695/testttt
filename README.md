@@ -31,7 +31,7 @@ You need to get the code locally for the git project repo. For this, you need to
 
 - Fork the project https://stash.forgerock.org/projects/OB/repos/openbanking-sample/browse
 - Clone your fork (if it's your first development with GIT, we recommend putting all the git repo in ~/Development/GIT)
-- Download the latest intellij version (ultimate)
+- Download<img> the latest intellij version (ultimate)
 - Open the project with intellij (you will need to open it as an existing maven project)
 - Install mongod if you don't have it already. There is plenty of doc online for this. We recommend using brew
 - You will need later to run mongod in background. Either do it in console before working or setup an external tool 
